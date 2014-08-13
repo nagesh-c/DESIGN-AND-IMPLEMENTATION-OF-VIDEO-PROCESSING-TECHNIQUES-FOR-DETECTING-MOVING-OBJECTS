@@ -3,15 +3,15 @@ This is a project on Background Subtraction without using OpenCV, but it require
 To run this:
 		  
         $cd installation
-	$chmod +x setup.sh
-	$./setup.sh
+		$chmod +x setup.sh
+		$./setup.sh
 This will install all the necessary packages. 
 
 To finally execute the file:
 		
         $cd code
-        $make makefile
-	$./background.out name-of-file
+         	$make makefile
+		$./background.out name-of-file
 		
 And, would like to thank:
 	
@@ -21,4 +21,4 @@ And, would like to thank:
 
 for doing most of the development part.
 
-This project uses "Discrete Wavelet Transform" for Key Frame Extraction Vibe for Background Subtraction.  
+This project uses "Discrete Wavelet Transform" for Key Frame Extraction and "Vibe" for Background Subtraction.  
