@@ -9,6 +9,7 @@ This will install all the necessary packages.
 
 To finally execute the file:
 		
+        $cd code
         $make makefile
 		$./background.out name-of-file
 		
