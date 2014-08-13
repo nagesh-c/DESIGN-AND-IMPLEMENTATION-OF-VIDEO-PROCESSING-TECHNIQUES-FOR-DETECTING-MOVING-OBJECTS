@@ -13,3 +13,10 @@ To finally execute the file:
         $make makefile
 		$./background.out name-of-file
 		
+And, would like to thank:
+	
+        Mr. Vignesh
+        Mr. Sachin
+        Mr. STP
+
+for doing most of the development part.
