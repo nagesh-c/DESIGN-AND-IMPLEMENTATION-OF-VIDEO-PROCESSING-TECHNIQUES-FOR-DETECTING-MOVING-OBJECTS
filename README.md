@@ -5,9 +5,9 @@ To run this:
         $cd installation
 		$chmod +x setup.sh
 		$./setup.sh
-This will install all the necessary packages 
+This will install all the necessary packages. 
 
-Then:
+To finally execute the file:
 		
         $make makefile
 		$./background.out name-of-file
