@@ -49,13 +49,5 @@ To finally execute the file:
         $cd code
         $make makefile
 		$./background.out name-of-file
-		
-And, would like to thank:
-	
-        Mr. Vignesh
-        Mr. Sachin
-        Mr. STP
-
-for doing most of the development part.
 
 This project uses "Discrete Wavelet Transform" for Key Frame Extraction and "Vibe" for Background Subtraction.  
